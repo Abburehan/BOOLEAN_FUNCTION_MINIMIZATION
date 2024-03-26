@@ -9,7 +9,6 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 **Equipment Required:**
-
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
@@ -32,13 +31,12 @@ Hardware – PCs, Cyclone II , USB flasher
 	
 ## Program:
 ![image](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/617b6f82-b943-4a19-9961-21084321b454)
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 ## Developed by: SYED ABBU REHAN
 ## RegisterNumber: 212223240165
 
 ## RTL realization
-
 ![WhatsApp Image 2024-03-21 at 09 41 32_04e598b9](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/8338e349-458c-46ef-b1ef-ef14c8ad0c9b)
 
 ## Output:
