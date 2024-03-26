@@ -29,16 +29,13 @@ Hardware – PCs, Cyclone II , USB flasher
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-
-
+	
 ## Program:
-
 ![image](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/617b6f82-b943-4a19-9961-21084321b454)
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 ## Developed by: SYED ABBU REHAN
 ## RegisterNumber: 212223240165
-
 
 ## RTL realization
 
@@ -51,5 +48,4 @@ Hardware – PCs, Cyclone II , USB flasher
 ![WhatsApp Image 2024-03-21 at 10 32 49_2730e433](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/6531c9db-9ee9-4d21-b499-4ec401120053)
 
 ## Result:
-
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
