@@ -30,20 +30,21 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 	
 ## Program:
-![image](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/617b6f82-b943-4a19-9961-21084321b454)
+![image](https://github.com/Abburehan/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849336/5db0721b-660a-482f-b7c6-cc9890ea1d95)
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 ## Developed by: SYED ABBU REHAN
 ## RegisterNumber: 212223240165
 
 ## RTL realization
-![WhatsApp Image 2024-03-21 at 09 41 32_04e598b9](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/8338e349-458c-46ef-b1ef-ef14c8ad0c9b)
+![image](https://github.com/Abburehan/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849336/633d110c-77fb-4945-84e3-39ed456114f3)
 
 ## Output:
-![WhatsApp Image 2024-03-21 at 10 09 59_b3093f56](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/64c064f4-deb4-43ca-a093-5b1e46334069)
+![image](https://github.com/Abburehan/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849336/faf75bbd-378d-4ae1-9cd0-90db96a2e84c)
 
 ## Truth Table:
-![WhatsApp Image 2024-03-21 at 10 32 49_2730e433](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/6531c9db-9ee9-4d21-b499-4ec401120053)
+![image](https://github.com/Abburehan/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849336/bcd4b974-f4d6-485f-8fb1-f8a6ed87dec1)
 
 ## Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
